@@ -12,9 +12,9 @@ The dataset comprises DateTime and environmental parameters collected over a per
 ### Implemented ML Models
 We implemented four machine learning models:
 
---> Long Short-Term Memory (LSTM)
---> Seasonal AutoRegressive Integrated Moving Average (SARIMA)
---> eXtreme Gradient Boosting (XGBoost)
+- Long Short-Term Memory (LSTM)
+- Seasonal AutoRegressive Integrated Moving Average (SARIMA)
+- eXtreme Gradient Boosting (XGBoost)
 These models were chosen for their effectiveness in time series forecasting and their ability to capture complex patterns in the data.
 
 ### Comparison and Results:
